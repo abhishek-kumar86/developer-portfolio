@@ -1,73 +1,91 @@
-# Coding Platform Progress Tracker
+# My Learning Progress – Abhishek Kumar
 
-**Updated:** 23 November 2026
-
-**Name:** Abhishek Kumar  
-**Roll No.:** 2601060086  
-**Section:** C  
-**University:** K.R. Mangalam University  
-**Programme:** BCA (AI & Data Science)  
-**Graduation Year:** 2029
-
----
-
-## HackerRank
-
-- **Profile URL:** https://www.hackerrank.com/profile/abhi9955
-- **Username:** abhi9955
-- **Problems Solved:** 3
-  - Say 'Hello, World!' With Python
-  - Python If-Else
-  - Arithmetic Operators
-- **Skill Test:** Python (Basic) – Pending
-- **Certificate:** Pending
-
-## LeetCode
-
-- **Profile URL:** https://leetcode.com/u/Abhishek-kumar86/
-- **Username:** Abhishek-kumar86
-- **Easy Problems Attempted:** 2
-  - Two Sum (Problem #1)
-  - Palindrome Number (Problem #9)
-- **Easy Problems Solved:** 2 (if both show Accepted)
-- **Medium Problems Attempted:** 0
-- **Programming Language:** Python 3
-
-## freeCodeCamp
-
-- **Profile URL:** https://www.freecodecamp.org/abhishek-kumar86
-- **Username:** abhishek-kumar86
-- **Current Track:** Responsive Web Design
-- **Cat Photo App:** Update actual completed steps
-- **Cafe Menu:** Update actual completed steps
-- **Total Steps Completed:** Update actual progress
+## Student Details
+- **Name:** Abhishek Kumar
+- **Course:** BCA (AI & Data Science)
+- **University:** K.R. Mangalam University
+- **Semester:** 1st Semester
+- **Section:** C
+- **Roll Number:** 2601060086
+- **Graduation Year:** 2029
+- **Specialisation:** Data Science & AI/ML
 
 ---
 
-## Weekly Goals
+## 1. Coding Platform Progress
 
-**Week of 23 November 2026**
+### HackerRank
+- [x] Created HackerRank account.
+- [x] Completed "Say Hello, World! With Python".
+- [x] Completed "Python If-Else".
+- [x] Completed "Arithmetic Operators".
+- [x] Passed the Python (Basic) Skill Test.
+- [x] Obtained Python (Basic) Certificate.
 
-- [ ] Complete 3 HackerRank Python problems
-- [ ] Attempt 1 LeetCode Easy problem
-- [ ] Complete 10 freeCodeCamp steps
+**HackerRank Profile:** https://www.hackerrank.com/profile/abhi9955
+
+### LeetCode
+- [x] Created LeetCode account.
+- [x] Linked GitHub account.
+- [x] Solved Two Sum (Problem #1) using Python 3.
+- [x] Solved Palindrome Number (Problem #9) using Python 3.
+- [x] Read the problem editorials.
+
+**LeetCode Profile:** https://leetcode.com/u/Abhishek-kumar86/
+
+### freeCodeCamp
+- [x] Created freeCodeCamp account.
+- [x] Completed Cat Photo App (Steps 1–15).
+- [x] Completed Cafe Menu (Steps 1–10).
+
+**freeCodeCamp Profile:** https://www.freecodecamp.org/abhishek-kumar86
 
 ---
 
-## Monthly Milestones
+## 2. GitHub Progress
+- [x] Created GitHub account.
+- [x] Created the developer-portfolio repository.
+- [x] Created this PROGRESS.md file.
+- [ ] Upload all assignment evidence and screenshots.
+- [ ] Complete and deploy the portfolio website using GitHub Pages.
 
-- **Month 1:** Complete 10 HackerRank Python problems and attempt Python Basic test.
-- **Month 2:** Solve 10 LeetCode Easy problems and complete HTML labs on freeCodeCamp.
-- **Month 3:** Earn HackerRank Python Basic certificate and reach 25 LeetCode Easy problems.
+**GitHub Profile:** https://github.com/abhishek-kumar86
+
+**Portfolio Repository:** https://github.com/abhishek-kumar86/developer-portfolio
 
 ---
 
-## Coding Platform Quick Reference
+## 3. Current Skill Assessment
 
-| Platform | Main Purpose | First Target |
-|---|---|---|
-| HackerRank | Coding practice and certificates | Python Basic Certificate |
-| LeetCode | DSA and interview preparation | 25 Easy problems |
-| freeCodeCamp | Web development | Responsive Web Design Certification |
-| GeeksForGeeks | CS theory and placement preparation | Explore DSA articles |
-| Kaggle | Data Science and Machine Learning | Explore one public dataset |
+| Skill | Current Level (1–4) |
+|---|---:|
+| Python Programming | 2 |
+| Linux / Bash | 2 |
+| Git / GitHub | 2 |
+| Data Structures & Algorithms | 1 |
+| Databases | 1 |
+| Web Development | 2 |
+
+---
+
+## 4. Weekly Learning Goals
+- Practice Python programming regularly.
+- Solve at least 3 coding problems every week.
+- Practice Git and GitHub commands.
+- Learn basic Linux commands.
+- Revise Data Structures and Algorithms concepts.
+- Continue learning HTML and CSS.
+
+---
+
+## 5. Monthly Milestones
+
+### Month 1
+- Strengthen Python fundamentals.
+- Practice loops, functions, lists and strings.
+- Complete beginner-level coding problems.
+
+### Month 2
+- Learn NumPy and Pandas basics.
+- Practice data cleaning and data analysis.
+- Learn basic data visualisation
