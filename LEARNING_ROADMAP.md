@@ -1,106 +1,119 @@
 # My 6-Semester Learning Roadmap
 
 **Name:** Abhishek Kumar  
-**Roll No.:** 2601060086  
+**Roll Number:** 2601060086  
 **Programme:** BCA (AI & Data Science)  
 **University:** K.R. Mangalam University  
-**Graduation Year:** 2028
+**Graduation Year:** 2029  
+**Specialisation:** Track B – Data Science & AI/ML
 
 ---
 
-## Semester 1 – Programming Fundamentals
+## About My Learning Journey
 
-**Goal:** Build a strong foundation in programming and computer science.
+My goal is to develop strong programming, problem-solving and technical skills during my BCA journey. I am interested in Data Science, Artificial Intelligence and Machine Learning.
 
-- Learn Python programming fundamentals.
-- Practice variables, data types, loops and functions.
-- Understand conditional statements and problem-solving.
-- Learn basic Linux commands.
-- Understand Git and GitHub.
-- Practice beginner problems on HackerRank and LeetCode.
+This roadmap describes my semester-wise academic learning goals and the technologies I plan to explore.
 
-**Target:** Complete 30 beginner Python problems.
+## Semester 1 – Programming and Fundamentals
 
-## Semester 2 – Data Structures and Web Development
+- MAT001 – Probability, Statistics and Linear Algebra
+- CSE101 – Programming for Problem Solving using Python
+- CSE102 – Web Development I (HTML, CSS and JavaScript Basics)
+- AML001 – Data Handling, Visualization and Feature Engineering
+- CSE103 – CS Fundamentals and Career Pathways
+- Foundation of Everyday Communication
 
-**Goal:** Improve programming and web development skills.
+**Learning Goals:**
+- Understand Python programming fundamentals.
+- Learn basic HTML, CSS and JavaScript.
+- Understand data handling and visualization.
+- Develop communication and problem-solving skills.
 
-- Learn Lists, Tuples, Dictionaries and Sets in Python.
-- Understand Arrays, Strings, Searching and Sorting.
-- Learn HTML and CSS.
-- Build simple responsive web pages.
-- Practice Easy-level LeetCode problems.
-- Explore freeCodeCamp certifications.
+## Semester 2 – Advanced Programming and Web Development
 
-**Target:** Solve 25 LeetCode Easy problems and build 2 small projects.
+- MAT002 – Discrete Mathematics
+- CSE105 – Problem Solving with C++
+- CSE106 – Web Development II (Advanced JavaScript and React)
+- AML004 – Statistical Foundation and Probabilistic Thinking
 
-## Semester 3 – Database and Advanced Programming
+**Learning Goals:**
+- Improve programming and logical thinking.
+- Learn C++ programming.
+- Understand React and advanced JavaScript.
+- Build a foundation in statistics and probability.
 
-**Goal:** Learn how to manage data and build applications.
+## Semester 3 – Core Computer Science and Machine Learning
 
-- Learn SQL and DBMS concepts.
-- Understand Object-Oriented Programming.
-- Learn Python libraries such as NumPy and Pandas.
-- Practice Data Structures and Algorithms.
-- Build projects using Python and databases.
+- CSE201 – Data Structures
+- CSE202 – Database Management System
+- CSE203 – Computer Organisation and System Architecture
+- CSE204 – Web Development II (Node.js and Express Backend)
+- AML004 – Introduction to Machine Learning
 
-**Target:** Complete 2 database-based projects.
+**Learning Goals:**
+- Understand important data structures.
+- Learn database concepts and SQL.
+- Understand computer organisation.
+- Develop backend applications.
+- Explore introductory Machine Learning concepts.
 
-## Semester 4 – Data Science and Statistics
+## Semester 4 – Algorithms and Deep Learning
 
-**Goal:** Develop data analysis skills.
+- CSE205 – Design and Analysis of Algorithms
+- CSE206 – Operating System
+- CSE207 – Object-Oriented Programming with Java
+- AML007 – Neural Network and Deep Learning
 
-- Learn Statistics and Probability.
-- Learn Data Cleaning and Data Preprocessing.
-- Practice Data Visualization using Matplotlib and Seaborn.
-- Explore Exploratory Data Analysis (EDA).
-- Work with real-world datasets using Kaggle.
+**Learning Goals:**
+- Improve algorithmic problem-solving.
+- Understand operating system concepts.
+- Learn object-oriented programming using Java.
+- Explore neural networks and deep learning.
 
-**Target:** Complete 2 Data Analysis projects.
+## Semester 5 – Cloud Computing and Applied Machine Learning
 
-## Semester 5 – Artificial Intelligence and Machine Learning
+- CSE304 – Cloud Computing and DevOps
+- CSE302 – Computer Networks
+- AML006 – Applied Classical Machine Learning
+- CSE103 – Professional Problem Solving and Career Reading 1
+- SEET006 – Practical Linux and Shell Scripting
 
-**Goal:** Understand AI and Machine Learning techniques.
+**Learning Goals:**
+- Understand cloud computing and DevOps.
+- Learn computer networking concepts.
+- Apply classical machine learning algorithms.
+- Improve professional problem-solving skills.
+- Practise Linux commands and shell scripting.
 
-- Learn Machine Learning fundamentals.
-- Study Supervised and Unsupervised Learning.
-- Explore Regression and Classification.
-- Learn model evaluation techniques.
-- Work with Scikit-learn.
-- Build beginner-level AI/ML projects.
+## Semester 6 – Capstone Project and Internship
 
-**Target:** Complete 2 Machine Learning projects.
+- Capstone Project
+- Internship
 
-## Semester 6 – Advanced Projects and Career Preparation
+**Learning Goals:**
+- Apply the knowledge gained throughout the programme.
+- Develop a practical project.
+- Gain industry exposure through an internship.
+- Improve teamwork, communication and professional skills.
 
-**Goal:** Prepare for internships and professional opportunities.
+## My Chosen Specialisation
 
-- Develop a final-year AI/Data Science project.
-- Improve problem-solving and coding skills.
-- Practice technical interview questions.
-- Build a professional GitHub portfolio.
-- Prepare an updated resume.
-- Apply for internships and entry-level opportunities.
+**Track B – Data Science & AI/ML**
 
-**Target:** Complete one major final-year project and prepare for placements.
+I have selected Data Science and AI/ML because I am interested in working with data, discovering useful patterns and developing intelligent applications.
+
+## Future Goals
+
+1. Strengthen Python and programming fundamentals.
+2. Practise Data Structures and Algorithms.
+3. Build practical projects using Python and data science tools.
+4. Learn Machine Learning and Deep Learning.
+5. Maintain my projects and progress on GitHub.
+6. Prepare for internships and future career opportunities.
 
 ---
 
-## Learning Platforms
+**Roadmap Status:** In Progress
 
-| Platform | Purpose |
-|---|---|
-| HackerRank | Python and coding practice |
-| LeetCode | Data Structures and Algorithms |
-| freeCodeCamp | Web development |
-| GitHub | Project management and portfolio |
-| Kaggle | Data Science and Machine Learning |
-| GeeksForGeeks | Computer Science concepts |
-
----
-
-## Long-Term Career Goal
-
-To become a skilled AI and Data Science professional by developing strong programming, analytical, problem-solving and project-building skills.
-
-I will continuously improve my knowledge through practical projects, coding challenges and consistent learning.
+**Last Updated:** November 2026
